@@ -10,6 +10,11 @@
     flex: 1;
 }
 
-.flex-container .two {
-    /*width: 200px;*/
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
 }
